@@ -1,0 +1,26 @@
+﻿/*css changes made to the body, img formatting, div centering, command form formatting
+*/
+body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: antiquewhite;
+}
+img {
+    max-width: 400px;
+    align-content:center;
+    width: 75%;
+    padding-bottom:20px;
+}
+
+
+.center {
+    margin: auto;
+    width: 50%;
+
+}
+
+.form label {
+    display: inline-block;
+    margin-left: 10px;
+    min-width: 110px;
+    padding-block:5px;
+}
