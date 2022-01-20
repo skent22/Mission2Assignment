@@ -15,7 +15,8 @@ img {
 .center {
     margin: auto;
     width: 50%;
-
+    background-color: antiquewhite;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .form label {
